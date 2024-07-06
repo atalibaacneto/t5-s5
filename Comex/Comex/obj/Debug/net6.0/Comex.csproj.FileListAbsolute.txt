@@ -12,3 +12,4 @@ D:\alura\t5-s5\Comex\Comex\obj\Debug\net6.0\refint\Comex.dll
 D:\alura\t5-s5\Comex\Comex\obj\Debug\net6.0\Comex.pdb
 D:\alura\t5-s5\Comex\Comex\obj\Debug\net6.0\Comex.genruntimeconfig.cache
 D:\alura\t5-s5\Comex\Comex\obj\Debug\net6.0\ref\Comex.dll
+D:\alura\t5-s5\Comex\Comex\obj\Debug\net6.0\Comex.sourcelink.json
